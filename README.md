@@ -1,4 +1,4 @@
-# Crop-Disease-Detection
+# Drone-Based Crop Disease Detection and Targeted Spraying for Precision Agriculture
 ## Overview 
 This project leverages drone technology and machine learning, particularly Convolutional Neural Networks (CNNs), to detect and analyze crop diseases and pests, providing precise insights for optimized agricultural productivity. By integrating advanced image processing techniques and a robust CNN-based model, the system enables early and accurate identification of crop health issues, minimizing losses and enhancing resource utilization.
 
