@@ -4,27 +4,27 @@ This project leverages drone technology and machine learning to detect and analy
 
 ## Key Features
 
-#### 1) Machine Learning Models:
+#### - Machine Learning Models:
    Built and compared models using TensorFlow to achieve high accuracy in disease and pest detection.
 
-#### 2) Image Processing:
+#### - Image Processing:
    Preprocessed drone-captured images for noise reduction, feature extraction, and segmentation.
 
-#### 3) Geospatial Mapping:
+#### - Geospatial Mapping:
    Integrated GPS data to map disease occurrences and visualize affected areas.
    
 ## Tools & Technologies:
-#### Python Libraries: 
+#### - Python Libraries: 
 TensorFlow, Pandas, NumPy, Matplotlib
-#### Drone Navigation: 
+#### - Drone Navigation: 
 Mission Planner, AeroGCS Green
-#### Data Handling: 
+#### - Data Handling: 
 Image preprocessing and geospatial analysis
 
 ## Achievements
-#### Smart India Hackathon 2023: 
+#### - Smart India Hackathon 2023: 
 Selected for this national-level innovation platform.
-#### Avishkar and SNJB Ideation: 
+#### - Avishkar and SNJB Ideation: 
 Recognized for its innovative and practical application.
 
 ## Impact
